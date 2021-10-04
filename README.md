@@ -21,3 +21,15 @@ To collect the data I used forex-python, which is a python library that gets for
 <img src="images/img3.png" >
 
 <img src="images/img4.png" >
+
+## Fitting the Model 
+
+<img src="images/img5.png" >
+
+## Summary
+
+After ten years, the investment in India is likely to end up returning 144,579.63 dollars and the investment in the United States is likely to end up returning 105,114.01 dollars, which is about a 37.5% greater return.
+
+
+
+
