@@ -14,4 +14,10 @@ This project evaluates the risk of investing in India, where the interest rate f
 
 To collect the data I used forex-python, which is a python library that gets foreign exchange data via ratesapi.io, a free API for current and historical foreign exchange rates published by European Central Bank. I collected the data by gathering historical data for ten individual years, since the library only allowed me to access one year at a time, and merged them into one dataframe. I also re-formatted the data by making another column for the date, as the index would be unable to be input into the model. To fit the model, I set the date and exchange rates as ‘ds’ and ‘y’ respectively in order for Prophet to recognize the values, and fit the model accordingly.
 
-<img src="image1.png" >
+<img src="images/img1.png" >
+
+<img src="images/img2.png" >
+
+<img src="images/img3.png" >
+
+<img src="images/img4.png" >
