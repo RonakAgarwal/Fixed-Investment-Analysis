@@ -1,6 +1,6 @@
 # International Fixed Rate Investment Analysis
 
-This project evaluates the risk of investing in India, where the interest rate for a fixed rate deposit is significantly higher than the interest rate is for a similar investment in America. The problem with investing in India, is that the exchange rate is constantly increasing, and could potentially make this type of investment invaluable and negate any potential returns. This project uses machine learning to predict the future exchange rate between the Indian Rupee and US Dollar, and determine whether a long-term, fixed rate investment, would be successful.
+The goal of this analysis is to evaluate the risk of investing in India, where the interest rate for a fixed rate deposit is significantly higher than the interest rate is for a similar investment in America. The problem with investing in India, is that the exchange rate is constantly increasing, and could potentially make this type of investment invaluable and negate any potential returns. This project uses machine learning to predict the future exchange rate between the Indian Rupee and US Dollar, and determine whether a long-term, fixed rate investment, would be successful.
 
 ## Project Steps
 
